@@ -3,9 +3,9 @@ use strict;
 
 my $rc_name = shift;
 
-system("mkdir SiClE_$rc_name");
-open MAKEFILE,">SiClE_$rc_name/Makefile";
-system("cp groupfile.txt en.lproj/Phylogeny.cpp en.lproj/Phylogeny.h SisterFinder/main.cpp SisterFinder/en.lproj/SiClE.cpp SisterFinder/en.lproj/SiClE.h SiClE_$rc_name");
+system("mkdir Releases/SiClE_$rc_name");
+open MAKEFILE,">Releases/SiClE_$rc_name/Makefile";
+system("cp groupfile.txt en.lproj/Phylogeny.cpp en.lproj/Phylogeny.h SisterFinder/main.cpp SisterFinder/en.lproj/SiClE.cpp SisterFinder/en.lproj/SiClE.h Releases/SiClE_$rc_name");
 print MAKEFILE "all: SiClE\n\n";
 print MAKEFILE "clean:\n\trm Phylogeny.o SiClE.o SiClE\n\n";
 print MAKEFILE "Phylogeny.o: Phylogeny.cpp Phylogeny.h\n\tg++ -std=c++0x -c Phylogeny.cpp\n\n";
@@ -14,7 +14,7 @@ print MAKEFILE "SiClE: main.cpp SiClE.o Phylogeny.o\n\tg++ -o SiClE main.cpp SiC
 
 close MAKEFILE;
 
-open README, ">SiClE_$rc_name/README";
+open README, ">Releases/SiClE_$rc_name/README";
 print README "Compilation
 ------------
 Move to the uncompressed destination and run the following command:
