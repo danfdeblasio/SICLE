@@ -1,0 +1,25 @@
+Compilation
+------------
+Move to the uncompressed destination and run the following command:
+
+        make
+
+or alternatly you can compile it manulally using the following commands:
+
+	g++ -o SisterFinder main.cpp Phylogeny.cpp SisterFinder.cpp
+
+Simple Runtime
+--------------
+You can run the program in the following way:
+
+    ./SisterFinder <SearchPrefix> <File1> <File2> .....
+
+Where search term is the prefix of the family or group you want the sisters for
+
+Complex Runtime
+----------------
+The main.cpp file is a simple driver for the sister finder class, wihch requires the Phylogeny class included.  From here you should be able to see the somple workings of the progrmand how you would be able to modify this for your own uses
+
+Version History
+---------------
+v0.1b : initial setup, works for a single search and a small group of files.  The files must have single newick trees.

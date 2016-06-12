@@ -1,0 +1,207 @@
+TSisterFinder
+v3
+r1
+cCheck dependencies
+cCompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.o" "/Users/deblasio/Documents/Phylogeny Assesment/en.lproj/Phylogeny.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/main.o" "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/main.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SiClE.o" "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SiClE.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/SisterFinder" normal x86_64
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E1106D400000000000000EE
+t1309738708
+s238
+
+N/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.o
+t1333663404
+s44864
+
+N/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SiClE.o
+t2
+s0
+
+N/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.LinkFileList
+c000000005081B73B000000000000021C
+t1350678331
+s540
+
+N/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.o
+t1350605945
+s114416
+
+N/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/main.o
+t1350598115
+s69924
+
+N/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/SisterFinder
+t1350605945
+s65392
+
+N/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/SisterFinder.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/SisterFinder.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SiClE.cpp
+c000000005081B72E00000000000027F4
+t1350678318
+s10228
+
+N/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SisterFinder.cpp
+c0000000050809C770000000000002848
+t1350605943
+s10312
+
+N/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SisterFinder.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/main.cpp
+c000000005081B7390000000000000736
+t1350678329
+s1846
+
+N/Users/deblasio/Documents/Phylogeny Assesment/en.lproj/Phylogeny.cpp
+c000000004F7E132800000000000012BB
+t1333662504
+s4795
+
+N/Users/deblasio/Documents/Phylogeny Assesment/en.lproj/Phylogeny.h
+c000000004F7E12DE00000000000003D9
+t1333662430
+s985
+
+CBuild AST from "/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp"
+r0
+
+CBuild AST from "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/SisterFinder.cpp"
+r0
+
+CBuild AST from "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SiClE.cpp"
+r0
+
+CBuild AST from "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SisterFinder.cpp"
+r0
+
+CBuild AST from "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/main.cpp"
+r0
+
+CBuild AST from "/Users/deblasio/Documents/Phylogeny Assesment/en.lproj/Phylogeny.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfdd917bbee31b641^6e3133bbee31b641^---0#1#0#--18"Check dependencies
+
+CCompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.o" "/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s355355683.093866
+e355355683.501965
+r1
+xCompileC
+xDerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.o
+x/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp032618234c2eb541^eb8b80234c2eb541^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/Phylogeny.cpp0000000000000000^2561"CompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.o" Phylogeny.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/deblasio/Documents/Phylogeny Assesment"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-generated-files.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-own-target-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-all-target-headers.hmap" -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-project-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/include" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources/x86_64" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources" "-F/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.d" -c "/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp" -o "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.o"
+
+CCompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.o" "/Users/deblasio/Documents/Phylogeny Assesment/en.lproj/Phylogeny.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s355356203.694668
+e355356204.022720
+r1
+xCompileC
+xDerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.o
+x/Users/deblasio/Documents/Phylogeny Assesment/en.lproj/Phylogeny.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/deblasio/Documents/Phylogeny Assesment/en.lproj/Phylogeny.cpp24f2b12b4e2eb541^35cf052c4e2eb541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/en.lproj/Phylogeny.cpp0000000000000000^2579"CompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.o" en.lproj/Phylogeny.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/deblasio/Documents/Phylogeny Assesment"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-generated-files.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-own-target-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-all-target-headers.hmap" -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-project-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/include" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources/x86_64" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources" "-F/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.d" -c "/Users/deblasio/Documents/Phylogeny Assesment/en.lproj/Phylogeny.cpp" -o "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/Phylogeny.o"
+
+CCompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SiClE.o" "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SiClE.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s372371131.211159
+e372371133.183472
+r1
+xCompileC
+xDerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SiClE.o
+x/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SiClE.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SiClE.cpp:30:21:{30:21-30:35}{30:13-30:18}: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32,3]
+o         int count = mapping.size();
+o             ~~~~~   ^~~~~~~~~~~~~~
+o1 warning generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SiClE.cppfa2936bbee31b641^d41035bdee31b641^-326"/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SiClE.cpp:30:21:{30:21-30:35}{30:13-30:18}: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32,3]         int count = mapping.size();             ~~~~~   ^~~~~~~~~~~~~~1 warning generated.1(21%IDEActivityLogMessage2@87"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'56"Implicit conversion loses integer precision: 'size_type'372371132#0#232#-1#-23%DVTTextDocumentLocation3@95"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/SisterFinder/en.lproj/SiClE.cpp0000000000000000^29#20#29#20#18446744073709551615#0#14"Semantic Issue2(3@95"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/SisterFinder/en.lproj/SiClE.cpp0000000000000000^29#20#29#34#18446744073709551615#0#3@95"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/SisterFinder/en.lproj/SiClE.cpp0000000000000000^29#12#29#17#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@95"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/SisterFinder/en.lproj/SiClE.cpp0000000000000000^2585"CompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SiClE.o" SisterFinder/en.lproj/SiClE.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/deblasio/Documents/Phylogeny Assesment"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-generated-files.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-own-target-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-all-target-headers.hmap" -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-project-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/include" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources/x86_64" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources" "-F/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SiClE.d" -c "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SiClE.cpp" -o "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SiClE.o"
+
+CCompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.o" "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/SisterFinder.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s355355683.505382
+e355355683.797610
+r1
+xCompileC
+xDerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.o
+x/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/SisterFinder.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/SisterFinder.cpp0e8381234c2eb541^dc2ecc234c2eb541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/SisterFinder/SisterFinder.cpp0000000000000000^2602"CompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.o" SisterFinder/SisterFinder.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/deblasio/Documents/Phylogeny Assesment"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-generated-files.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-own-target-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-all-target-headers.hmap" -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-project-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/include" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources/x86_64" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources" "-F/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.d" -c "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/SisterFinder.cpp" -o "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.o"
+
+CCompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.o" "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SisterFinder.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s372298744.715893
+e372298745.120237
+r1
+xCompileC
+xDerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.o
+x/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SisterFinder.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SisterFinder.cpp:30:21:{30:21-30:35}{30:13-30:18}: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32,3]
+o         int count = mapping.size();
+o             ~~~~~   ^~~~~~~~~~~~~~
+o1 warning generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SisterFinder.cpp986db7f8d330b641^4cc51ef9d330b641^-333"/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SisterFinder.cpp:30:21:{30:21-30:35}{30:13-30:18}: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32,3]         int count = mapping.size();             ~~~~~   ^~~~~~~~~~~~~~1 warning generated.1(21%IDEActivityLogMessage2@87"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'56"Implicit conversion loses integer precision: 'size_type'372298745#0#239#-1#-23%DVTTextDocumentLocation3@102"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/SisterFinder/en.lproj/SisterFinder.cpp0000000000000000^29#20#29#20#18446744073709551615#0#14"Semantic Issue2(3@102"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/SisterFinder/en.lproj/SisterFinder.cpp0000000000000000^29#20#29#34#18446744073709551615#0#3@102"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/SisterFinder/en.lproj/SisterFinder.cpp0000000000000000^29#12#29#17#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@102"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/SisterFinder/en.lproj/SisterFinder.cpp0000000000000000^2620"CompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.o" SisterFinder/en.lproj/SisterFinder.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/deblasio/Documents/Phylogeny Assesment"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-generated-files.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-own-target-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-all-target-headers.hmap" -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-project-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/include" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources/x86_64" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources" "-F/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.d" -c "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/en.lproj/SisterFinder.cpp" -o "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.o"
+
+CCompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/main.o" "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/main.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s372371131.210110
+e372371133.134183
+r1
+xCompileC
+xDerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/main.o
+x/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/main.cppfeee35bbee31b641^430024bdee31b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/deblasio/Documents/Phylogeny%20Assesment/SisterFinder/main.cpp0000000000000000^2562"CompileC "DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/main.o" SisterFinder/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/deblasio/Documents/Phylogeny Assesment"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-generated-files.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-own-target-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-all-target-headers.hmap" -iquote "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/SisterFinder-project-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/include" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources/x86_64" "-I/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/DerivedSources" "-F/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/main.d" -c "/Users/deblasio/Documents/Phylogeny Assesment/SisterFinder/main.cpp" -o "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/main.o"
+
+CLd "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/SisterFinder" normal x86_64
+s372371133.190106
+e372371134.260870
+r1
+xLd
+x/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/SisterFinder
+xnormal
+xx86_64
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Link /Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/SisterFinderd6c630bdee31b641^43c742beee31b641^---0#0#0#--824"Ld "DerivedData/Phylogeny Assesment/Build/Products/Debug/SisterFinder" normal x86_64    cd "/Users/deblasio/Documents/Phylogeny Assesment"    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/clang++ -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.7.sdk "-L/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug" "-F/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug" -filelist "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Intermediates/Phylogeny Assesment.build/Debug/SisterFinder.build/Objects-normal/x86_64/SisterFinder.LinkFileList" -mmacosx-version-min=10.7 -o "/Users/deblasio/Documents/Phylogeny Assesment/DerivedData/Phylogeny Assesment/Build/Products/Debug/SisterFinder"
+

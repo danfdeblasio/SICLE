@@ -1,0 +1,404 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		54125EB81498333800E3F10B /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54125EB71498333800E3F10B /* main.cpp */; };
+		542A0FCB152E4DE200B1CDE7 /* SiClE.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 542A0FCD152E4DE200B1CDE7 /* SiClE.cpp */; };
+		542A0FD0152E4DE500B1CDE7 /* Phylogeny Assesment.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 542A0FD2152E4DE500B1CDE7 /* Phylogeny Assesment.1 */; };
+		542A0FD3152E4DE900B1CDE7 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 542A0FD5152E4DE900B1CDE7 /* main.cpp */; };
+		542A0FD6152E4DEA00B1CDE7 /* Phylogeny.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 542A0FD9152E4DEA00B1CDE7 /* Phylogeny.cpp */; };
+		542A0FD7152E4DEA00B1CDE7 /* Phylogeny.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 542A0FD9152E4DEA00B1CDE7 /* Phylogeny.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		54125EB21498333800E3F10B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8DD76F690486A84900D96B5E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 8;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				542A0FD0152E4DE500B1CDE7 /* Phylogeny Assesment.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		54125EB41498333800E3F10B /* SiClE */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SiClE; sourceTree = BUILT_PRODUCTS_DIR; };
+		54125EB71498333800E3F10B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		542A0FCC152E4DE200B1CDE7 /* en */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = en; path = en.lproj/SiClE.cpp; sourceTree = "<group>"; };
+		542A0FCE152E4DE400B1CDE7 /* en */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = en; path = en.lproj/SiClE.h; sourceTree = "<group>"; };
+		542A0FD1152E4DE500B1CDE7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.man; name = en; path = "en.lproj/Phylogeny Assesment.1"; sourceTree = "<group>"; };
+		542A0FD4152E4DE900B1CDE7 /* en */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = en; path = en.lproj/main.cpp; sourceTree = "<group>"; };
+		542A0FD8152E4DEA00B1CDE7 /* en */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = en; path = en.lproj/Phylogeny.cpp; sourceTree = "<group>"; };
+		542A0FDA152E4DEB00B1CDE7 /* en */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = en; path = en.lproj/Phylogeny.h; sourceTree = "<group>"; };
+		8DD76F6C0486A84900D96B5E /* Phylogeny Assesment */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Phylogeny Assesment"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		54125EB11498333800E3F10B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD76F660486A84900D96B5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* Phylogeny Assesment */ = {
+			isa = PBXGroup;
+			children = (
+				08FB7795FE84155DC02AAC07 /* Source */,
+				C6859E8C029090F304C91782 /* Documentation */,
+				54125EB61498333800E3F10B /* SiClE */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+			);
+			name = "Phylogeny Assesment";
+			sourceTree = "<group>";
+		};
+		08FB7795FE84155DC02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				542A0FDB152E4DEB00B1CDE7 /* Phylogeny.h */,
+				542A0FD9152E4DEA00B1CDE7 /* Phylogeny.cpp */,
+				542A0FD5152E4DE900B1CDE7 /* main.cpp */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8DD76F6C0486A84900D96B5E /* Phylogeny Assesment */,
+				54125EB41498333800E3F10B /* SiClE */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		54125EB61498333800E3F10B /* SiClE */ = {
+			isa = PBXGroup;
+			children = (
+				542A0FCD152E4DE200B1CDE7 /* SiClE.cpp */,
+				542A0FCF152E4DE400B1CDE7 /* SiClE.h */,
+				54125EB71498333800E3F10B /* main.cpp */,
+			);
+			name = SiClE;
+			path = SisterFinder;
+			sourceTree = "<group>";
+		};
+		C6859E8C029090F304C91782 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				542A0FD2152E4DE500B1CDE7 /* Phylogeny Assesment.1 */,
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		54125EB31498333800E3F10B /* SiClE */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 54125EBD1498333800E3F10B /* Build configuration list for PBXNativeTarget "SiClE" */;
+			buildPhases = (
+				54125EB01498333800E3F10B /* Sources */,
+				54125EB11498333800E3F10B /* Frameworks */,
+				54125EB21498333800E3F10B /* CopyFiles */,
+				54125EC214984E0800E3F10B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SiClE;
+			productName = SisterFinder;
+			productReference = 54125EB41498333800E3F10B /* SiClE */;
+			productType = "com.apple.product-type.tool";
+		};
+		8DD76F620486A84900D96B5E /* Phylogeny Assesment */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB923108733DC60010E9CD /* Build configuration list for PBXNativeTarget "Phylogeny Assesment" */;
+			buildPhases = (
+				8DD76F640486A84900D96B5E /* Sources */,
+				8DD76F660486A84900D96B5E /* Frameworks */,
+				8DD76F690486A84900D96B5E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Phylogeny Assesment";
+			productInstallPath = "$(HOME)/bin";
+			productName = "Phylogeny Assesment";
+			productReference = 8DD76F6C0486A84900D96B5E /* Phylogeny Assesment */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+			};
+			buildConfigurationList = 1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "Phylogeny Assesment" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 08FB7794FE84155DC02AAC07 /* Phylogeny Assesment */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DD76F620486A84900D96B5E /* Phylogeny Assesment */,
+				54125EB31498333800E3F10B /* SiClE */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		54125EC214984E0800E3F10B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		54125EB01498333800E3F10B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				542A0FD7152E4DEA00B1CDE7 /* Phylogeny.cpp in Sources */,
+				54125EB81498333800E3F10B /* main.cpp in Sources */,
+				542A0FCB152E4DE200B1CDE7 /* SiClE.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD76F640486A84900D96B5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				542A0FD3152E4DE900B1CDE7 /* main.cpp in Sources */,
+				542A0FD6152E4DEA00B1CDE7 /* Phylogeny.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		542A0FCD152E4DE200B1CDE7 /* SiClE.cpp */ = {
+			isa = PBXVariantGroup;
+			children = (
+				542A0FCC152E4DE200B1CDE7 /* en */,
+			);
+			name = SiClE.cpp;
+			sourceTree = "<group>";
+		};
+		542A0FCF152E4DE400B1CDE7 /* SiClE.h */ = {
+			isa = PBXVariantGroup;
+			children = (
+				542A0FCE152E4DE400B1CDE7 /* en */,
+			);
+			name = SiClE.h;
+			sourceTree = "<group>";
+		};
+		542A0FD2152E4DE500B1CDE7 /* Phylogeny Assesment.1 */ = {
+			isa = PBXVariantGroup;
+			children = (
+				542A0FD1152E4DE500B1CDE7 /* en */,
+			);
+			name = "Phylogeny Assesment.1";
+			sourceTree = "<group>";
+		};
+		542A0FD5152E4DE900B1CDE7 /* main.cpp */ = {
+			isa = PBXVariantGroup;
+			children = (
+				542A0FD4152E4DE900B1CDE7 /* en */,
+			);
+			name = main.cpp;
+			sourceTree = "<group>";
+		};
+		542A0FD9152E4DEA00B1CDE7 /* Phylogeny.cpp */ = {
+			isa = PBXVariantGroup;
+			children = (
+				542A0FD8152E4DEA00B1CDE7 /* en */,
+			);
+			name = Phylogeny.cpp;
+			sourceTree = "<group>";
+		};
+		542A0FDB152E4DEB00B1CDE7 /* Phylogeny.h */ = {
+			isa = PBXVariantGroup;
+			children = (
+				542A0FDA152E4DEB00B1CDE7 /* en */,
+			);
+			name = Phylogeny.h;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB923208733DC60010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INSTALL_PATH = /usr/local/bin;
+				OTHER_CFLAGS = "-std=c++0x";
+				PRODUCT_NAME = "Phylogeny Assesment";
+			};
+			name = Debug;
+		};
+		1DEB923308733DC60010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/bin;
+				OTHER_CFLAGS = "-std=c++0x";
+				PRODUCT_NAME = "Phylogeny Assesment";
+			};
+			name = Release;
+		};
+		1DEB923608733DC60010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = "";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		1DEB923708733DC60010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		54125EBB1498333800E3F10B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = "";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				OTHER_CFLAGS = "-std=gnu++0x";
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-stdlib=libc++",
+					"-std=gnu++11",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		54125EBC1498333800E3F10B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = "";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				OTHER_CFLAGS = "-std=gnu++0x";
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-stdlib=libc++",
+					"-std=gnu++11",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB923108733DC60010E9CD /* Build configuration list for PBXNativeTarget "Phylogeny Assesment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB923208733DC60010E9CD /* Debug */,
+				1DEB923308733DC60010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "Phylogeny Assesment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB923608733DC60010E9CD /* Debug */,
+				1DEB923708733DC60010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		54125EBD1498333800E3F10B /* Build configuration list for PBXNativeTarget "SiClE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				54125EBB1498333800E3F10B /* Debug */,
+				54125EBC1498333800E3F10B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

@@ -1,0 +1,36 @@
+Compilation
+------------
+Move to the uncompressed destination and run the following command:
+
+        make
+
+or alternatly you can compile it manulally using the following commands:
+
+	g++ -o SiClE main.cpp Phylogeny.cpp SiClE.cpp
+
+Simple Runtime
+--------------
+You can run the program in the following way:
+
+    ./SiClE [--groupFile <groupFile>] <SearchPrefix> <File1> <File2> .....
+
+Where search term is the prefix of the family or group you want the sisters for and the GroupFile is a list of prefixes that might be in the same group if found in a polyphioletic group together.  The format is show later in tis file.
+
+Complex Runtime
+----------------
+The main.cpp file is a simple driver for the sister finder class, wihch requires the Phylogeny class included.  From here you should be able to see the somple workings of the progrmand how you would be able to modify this for your own uses
+
+Version History
+---------------
+v0.11b: bug fixes on rerooting (just run initial finding after rerooting)
+	disable multi file input (not working for some reason
+	include example group file in package 
+v0.8b : changed the rerooting policy for inital CLADE finding
+v0.4a : added checkes for file not found
+	more use friendly for multiple files
+v0.3a : fixed errors with rerooting 
+	completed grouping procedures
+	general bug fixes
+v0.2a : fixed errors with rerooting
+	fixed errors with sister group bring the same as the siters monophyloetic group (i.e. the parents parents other child is the same as the parents monophyoletic group)
+v0.1a : initial setup, works for a single search and a small group of files.  The files must have single newick trees.

@@ -1,0 +1,89 @@
+TPhylogeny Assesment
+v7
+r0
+t335588319.452551
+cCheck dependencies
+cCompileC "build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/main.o" "/Users/deblasio/Documents/Phylogeny Assesment/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/Phylogeny.o" "/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/deblasio/Documents/Phylogeny Assesment/build/Debug/Phylogeny Assesment" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp
+c000000004E50745C000000000000037D
+t1313895516
+s893
+i"Phylogeny.h"
+
+N/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.h
+c000000004E50724900000000000001D7
+t1313894985
+s471
+
+N/Users/deblasio/Documents/Phylogeny Assesment/build/Debug/Phylogeny Assesment
+t1313895519
+s17080
+
+N/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/Phylogeny Assesment.LinkFileList
+c000000004E506B0C000000000000011B
+t1313893132
+s283
+
+N/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/Phylogeny.o
+t1313895519
+s72620
+
+N/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/main.o
+t1313894987
+s67024
+
+N/Users/deblasio/Documents/Phylogeny Assesment/main.cpp
+c000000004E506B0B00000000000000A8
+t1313893131
+s168
+i"Phylogeny.h"
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335588318#335588318#0(0"0(0#1#0"4495897920#0"0#
+
+CCompileC "build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/Phylogeny.o" "/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s335588318.428343
+e335588319.164646
+r1
+xCompileC
+xbuild/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/Phylogeny.o
+x/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp335588318#335588319#0(0"0(0#0#59"/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp4495896208#1616"    cd "/Users/deblasio/Documents/Phylogeny Assesment"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Phylogeny Assesment-generated-files.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Phylogeny Assesment-own-target-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Phylogeny Assesment-all-target-headers.hmap" -iquote "/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Phylogeny Assesment-project-headers.hmap" "-F/Users/deblasio/Documents/Phylogeny Assesment/build/Debug" "-I/Users/deblasio/Documents/Phylogeny Assesment/build/Debug/include" "-I/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/DerivedSources/x86_64" "-I/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/DerivedSources" -c "/Users/deblasio/Documents/Phylogeny Assesment/Phylogeny.cpp" -o "/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/Phylogeny.o"0#
+
+CCompileC "build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/main.o" "/Users/deblasio/Documents/Phylogeny Assesment/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s335587786.871528
+e335587787.381130
+r1
+xCompileC
+xbuild/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/main.o
+x/Users/deblasio/Documents/Phylogeny Assesment/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/deblasio/Documents/Phylogeny Assesment/main.cpp335587786#335587787#0(0"0(0#0#54"/Users/deblasio/Documents/Phylogeny Assesment/main.cpp4447903376#1606"    cd "/Users/deblasio/Documents/Phylogeny Assesment"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Phylogeny Assesment-generated-files.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Phylogeny Assesment-own-target-headers.hmap" "-I/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Phylogeny Assesment-all-target-headers.hmap" -iquote "/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Phylogeny Assesment-project-headers.hmap" "-F/Users/deblasio/Documents/Phylogeny Assesment/build/Debug" "-I/Users/deblasio/Documents/Phylogeny Assesment/build/Debug/include" "-I/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/DerivedSources/x86_64" "-I/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/DerivedSources" -c "/Users/deblasio/Documents/Phylogeny Assesment/main.cpp" -o "/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/deblasio/Documents/Phylogeny Assesment/build/Debug/Phylogeny Assesment" normal x86_64
+s335588319.164754
+e335588319.452378
+r1
+xLd
+x/Users/deblasio/Documents/Phylogeny Assesment/build/Debug/Phylogeny Assesment
+xnormal
+xx86_64
+lSLF07#2@82"Link /Users/deblasio/Documents/Phylogeny Assesment/build/Debug/Phylogeny Assesment335588319#335588319#0(0"0(0#0#0"4495896208#591"    cd "/Users/deblasio/Documents/Phylogeny Assesment"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/deblasio/Documents/Phylogeny Assesment/build/Debug" "-F/Users/deblasio/Documents/Phylogeny Assesment/build/Debug" -filelist "/Users/deblasio/Documents/Phylogeny Assesment/build/Phylogeny Assesment.build/Debug/Phylogeny Assesment.build/Objects-normal/x86_64/Phylogeny Assesment.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/deblasio/Documents/Phylogeny Assesment/build/Debug/Phylogeny Assesment"0#
+

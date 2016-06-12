@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 549C72791400A1C40098CAE1 /* Phylogeny Assesment */;
+		activeTarget = 8DD76F620486A84900D96B5E /* Phylogeny Assesment */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* Phylogeny Assesment */,
+		);
+		codeSenseManager = 549C72811400A1E30098CAE1 /* Code sense */;
+		executables = (
+			549C72791400A1C40098CAE1 /* Phylogeny Assesment */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 335585732;
+			PBXWorkspaceStateSaveDate = 335585732;
+		};
+		perUserProjectItems = {
+			549C72B61400A8990098CAE1 /* PBXBookmark */ = 549C72B61400A8990098CAE1 /* PBXBookmark */;
+			549C72C8140319330098CAE1 /* PBXTextBookmark */ = 549C72C8140319330098CAE1 /* PBXTextBookmark */;
+			549C72CA140319330098CAE1 /* PBXTextBookmark */ = 549C72CA140319330098CAE1 /* PBXTextBookmark */;
+			549C72CB140319330098CAE1 /* PBXTextBookmark */ = 549C72CB140319330098CAE1 /* PBXTextBookmark */;
+			549C72CC140319330098CAE1 /* PBXTextBookmark */ = 549C72CC140319330098CAE1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 549C72801400A1E30098CAE1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {825, 661}}";
+			sepNavSelRange = "{23, 0}";
+			sepNavVisRange = "{0, 168}";
+		};
+	};
+	549C72791400A1C40098CAE1 /* Phylogeny Assesment */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Phylogeny Assesment";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	549C72801400A1E30098CAE1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	549C72811400A1E30098CAE1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	549C72871400A2550098CAE1 /* Phylogeny.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 364}}";
+			sepNavSelRange = "{402, 0}";
+			sepNavVisRange = "{46, 219}";
+			sepNavWindowFrame = "{{15, 4}, {884, 774}}";
+		};
+	};
+	549C72881400A2550098CAE1 /* Phylogeny.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {825, 661}}";
+			sepNavSelRange = "{891, 0}";
+			sepNavVisRange = "{0, 893}";
+			sepNavWindowFrame = "{{401, 4}, {884, 774}}";
+		};
+	};
+	549C72B61400A8990098CAE1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 549C72881400A2550098CAE1 /* Phylogeny.cpp */;
+	};
+	549C72C8140319330098CAE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 549C72881400A2550098CAE1 /* Phylogeny.cpp */;
+		name = "Phylogeny.cpp: 37";
+		rLen = 0;
+		rLoc = 891;
+		rType = 0;
+		vrLen = 893;
+		vrLoc = 0;
+	};
+	549C72CA140319330098CAE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 2";
+		rLen = 0;
+		rLoc = 23;
+		rType = 0;
+		vrLen = 168;
+		vrLoc = 0;
+	};
+	549C72CB140319330098CAE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 549C72871400A2550098CAE1 /* Phylogeny.h */;
+		name = "Phylogeny.h: 1";
+		rLen = 0;
+		rLoc = 2;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 0;
+	};
+	549C72CC140319330098CAE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 549C72871400A2550098CAE1 /* Phylogeny.h */;
+		name = "Phylogeny.h: 26";
+		rLen = 0;
+		rLoc = 438;
+		rType = 0;
+		vrLen = 471;
+		vrLoc = 0;
+	};
+	8DD76F620486A84900D96B5E /* Phylogeny Assesment */ = {
+		activeExec = 0;
+		executables = (
+			549C72791400A1C40098CAE1 /* Phylogeny Assesment */,
+		);
+	};
+}
