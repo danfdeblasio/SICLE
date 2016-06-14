@@ -5,7 +5,7 @@ my $rc_name = shift;
 
 system("mkdir -p Releases/SiClE_$rc_name/examples");
 open MAKEFILE,">Releases/SiClE_$rc_name/Makefile";
-system("cp testing_examples/groupfile.txt en.lproj/Phylogeny.cpp en.lproj/Phylogeny.h SisterFinder/main.cpp SisterFinder/en.lproj/SiClE.cpp SisterFinder/en.lproj/SiClE.h Releases/SiClE_$rc_name");
+system("cp en.lproj/Phylogeny.cpp en.lproj/Phylogeny.h SisterFinder/main.cpp SisterFinder/en.lproj/SiClE.cpp SisterFinder/en.lproj/SiClE.h Releases/SiClE_$rc_name");
 system("cp testing_examples/groupfile.txt testing_examples/Phy001MQP3_SALRD_new.tre Releases/SiClE_$rc_name/examples");
 print MAKEFILE "all: SiClE\n\n";
 print MAKEFILE "clean:\n\trm Phylogeny.o SiClE.o SiClE\n\n";
@@ -60,7 +60,7 @@ Using SICLE to search for Cyanobacteria in this tree shows that Betaproteobacter
 
 If you use the provided hierarchy you find that the other sister to Cyanobacteria consists only of different Eubacteria
 
-./SiClE --groupFile groupfile.txt examples/Cyanobacteria examples/Phy001MQP3_SALRD_new.tre
+./SiClE --groupFile examples/groupfile.txt examples/Cyanobacteria examples/Phy001MQP3_SALRD_new.tre
 	examples/Phy001MQP3_SALRD_new.tre:
 	Cyanobacteria	Eubacteria	0.997
 	Cyanobacteria	Betaproteobacteria	0.997
