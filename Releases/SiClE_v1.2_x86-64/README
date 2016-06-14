@@ -15,20 +15,39 @@ Simple Runtime
 
 
 Required Arguments:
-<SearchPrefix> 		 	the prefix of the target family or group for which SiClE will find sisters.
-<FileX> 		 		file with a single phylogenetic tree in Newik format.
+<SearchPrefix> 		the prefix of the target family or group for which SiClE will find sisters.
+<FileX> 		 file with a single phylogenetic tree in Newik format.
 
 Optional Arguments:
--h, -? 					 Prints this help message.
+-h, -? 			 Prints this help message.
 --groupFile <groupFile>  SiClE will use a hierarical clustering of leaf prefixes found in <GroupFile>
-			 		     to group non-monophyletic sister clades. The format is shown in the included README
---E 			 		 SiClE will uses regular expression searching rather than strict exact prefix
-			 			 matching to find the target group.
+ 		     	 to group non-monophyletic sister clades. The format is shown in the included README
+--E 			 SiClE will uses regular expression searching rather than strict exact prefix
+			 matching to find the target group.
 			 
 Group File
 ----------
 An example group file can be found on the SiClE website at http://eebweb.arizona.edu/sicle/ or directly at 
-http://eebweb.arizona.edu/sicle/examples/groupFile.txt.
+http://eebweb.arizona.edu/sicle/examples/groupFile.txt or included in this package.
+
+Examples
+--------
+We have included an example tree in this file from the experements described in the SICLE publication. This tree is Phy001MQP3_SALRD_new.tre
+
+Using SICLE to search for Cyanobacteria in this tree shows that Betaproteobacteria is the only monophyletic sister clade and the minimum boostrap suport along the branch that conncts them is 0.997.
+
+./SiClE Cyanobacteria examples/Phy001MQP3_SALRD_new.tre
+	examples/Phy001MQP3_SALRD_new.tre:
+	Cyanobacteria	Betaproteobacteria	0.997
+
+If you use the provided hierarchy you find that the other sister to Cyanobacteria consists only of different Eubacteria
+
+./SiClE --groupFile examples/groupfile.txt Cyanobacteria examples/Phy001MQP3_SALRD_new.tre
+	examples/Phy001MQP3_SALRD_new.tre:
+	Cyanobacteria	Eubacteria	0.997
+	Cyanobacteria	Betaproteobacteria	0.997
+	
+The output of SICLE is tab-delimited and can easily be parsed a hand wirtten script or any available spreadsheet application like EXCEL. 
 
 Complex Runtime
 ----------------
